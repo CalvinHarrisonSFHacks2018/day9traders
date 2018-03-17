@@ -5,7 +5,9 @@
   "dependencies": {
     "chart.js": "^2.5.0",
     "onsenui": "^2.9.2",
+    "react": "^15.5.3",
     "react-chartjs-2": "^2.7.0",
+    "react-dom": "^15.5.3",
     "react-onsenui": "^1.10.0",
     "react-scripts": "1.1.1"
   },
@@ -16,13 +18,6 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-<<<<<<< HEAD
-    "onsenui": "^2.9.2",
-    "react-chartjs-2": "^2.7.0"
-=======
-    "ajv": "^6.0.0",
-    "react": "^15.5.3",
-    "react-dom": "^15.5.3"
->>>>>>> 1e4a59877eaa784ad9abb0b3684ad118500b7108
+    "ajv": "^6.0.0"
   }
 }
