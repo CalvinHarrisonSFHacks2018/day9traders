@@ -3,8 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
+    "chart.js": "^2.5.0",
+    "onsenui": "^2.9.2",
+    "react-chartjs-2": "^2.7.0",
+    "react-onsenui": "^1.10.0",
     "react-scripts": "1.1.1"
   },
   "scripts": {
@@ -14,7 +16,8 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "chartjs": "^0.3.24",
-    "onsenui": "^2.9.2"
+    "ajv": "^6.0.0",
+    "react": "^15.5.3",
+    "react-dom": "^15.5.3"
   }
 }
