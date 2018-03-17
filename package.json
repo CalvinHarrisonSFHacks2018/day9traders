@@ -14,7 +14,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "chartjs": "^0.3.24",
-    "onsenui": "^2.9.2"
+    "onsenui": "^2.9.2",
+    "react-chartjs-2": "^2.7.0"
   }
 }
