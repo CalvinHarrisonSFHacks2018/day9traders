@@ -12,5 +12,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "chartjs": "^0.3.24",
+    "onsenui": "^2.9.2"
   }
 }
