@@ -17,7 +17,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "ajv": "^6.0.0",
+    "ajv": "^6.12.3",
     "react-chartjs-2": "^2.7.0"
   }
 }
